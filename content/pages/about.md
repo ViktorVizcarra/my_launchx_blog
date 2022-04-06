@@ -1,21 +1,13 @@
 ---
-title: 'About me'
+title: 'Acerca de mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acercademi"
 ---
 
-## Who am I
+## ¿Quien soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Mi nombre es Victor, soy egresado de LI, desde hace un tiempo estoy en el area de soporte tecnico y estoy aqui para desempolvar lo aprendido en la Universdidad y aprender sobre las herramientas actuales y necesarias en el actual mundo laboral, y con eso tener un oportunidad de mejorar mis condiciones de vida.
 
