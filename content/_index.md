@@ -7,6 +7,4 @@ Hola ✌️  soy el explorer **Victor** y este es mi blog personal donde compart
 
 Te invito a conocer mis aprendizajes y leer mis experiencias. 
 
-En este viaje espero aprender sobre el uso corRecto de git y github, tambien espero aprovechar al maximo los conocimientos que nuestro MC(Carlo) tiene para compartirnos y de esa manera convertirme en un buen desarrollador BackEnd(NodeJS).
-
 🚀
